@@ -33,10 +33,6 @@
 </div>
 
 ###
-
-<h3 align="left">Design and Development</h3>
-
-###
 <h2 align="left">Database</h2>
 
 ###
@@ -48,10 +44,12 @@
 </div>
 
 ###
+<h3 align="left">Design and Development</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>

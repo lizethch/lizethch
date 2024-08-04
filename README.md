@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Full Stack Developer in Evolution<br><br>Enthusiastic programmer focused on Full Stack development. <br>I like to create fascinating and functional web experiences that captivate users. <br>Always looking for new challenges to expand my technological horizons.<br>Let's transform bold visions into impactful digital realities together! 💻✨<br><br>📫 Contact me at Lizethchm4@gmail.com<br>💖 I also love to travel, create new experiences and listen to music<br>🌱 I am currently in a Bootcamp<br>⚡ Fun fact: My favorite language is React</p>
+<p align="left">🚀 Full Stack Developer in Evolution<br><br>Enthusiastic programmer focused on Full Stack development. <br>I like to create fascinating and functional web experiences that captivate users. <br>Always looking for new challenges to expand my technological horizons.<br>Let's transform bold visions into impactful digital realities together! 💻✨<br><br>📫 Contact me at Lizethchm4@gmail.com<br>💖 I also love to travel, create new experiences and listen to music<br>🌱 I am currently training in a Bootcamp<br>⚡ Fun fact: My favorite frontend library is React</p>
 
 ###
 
